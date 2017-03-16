@@ -1,4 +1,4 @@
-# Blockcain-seminar-SoftUni
+# Blockcain Seminar at SoftUni
 A short lecture on Blockchain tech, delivered at SoftUni on 15.03.2017
 
 **Description:**
